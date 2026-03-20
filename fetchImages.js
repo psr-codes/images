@@ -1,4 +1,4 @@
-const url = "https://api.github.com/repos/psr-codes/images/contents/onichan-fun/casino";
+const url = "https://api.github.com/repos/psr-codes/images/contents/onichan-fun/docs";
 
 async function getImages() {
   const res = await fetch(url);
